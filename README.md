@@ -27,7 +27,7 @@ You can check out <a href="https://techmartshop.netlify.app/">live-preview</a>
 - Detailed product pages with images, descriptions, and specifications.
 - User-friendly cart system to add and remove items.
 
-  <h2>Website preview - Product Page </h2>
+  <h2>Products Page Preview:  </h2>
  <div>
 <img src="https://github.com/HimanshuSharmax/Tech-Mart/assets/86725419/c43aefac-14be-4b63-bed5-feb70c9c3d28">
 
