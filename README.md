@@ -1,6 +1,6 @@
 # Tech-Mart | E-Commerce  🛍️
 
-This repository contains the source code for a mobile e-commerce website built using React.js. The website allows users to browse and purchase mobile phones, laptops, and other accessories
+This repository contains the source code for an E-Commerce website built using React.js. The website allows users to browse and purchase mobile phones, laptops, and other accessories
 
 
 ![HomePagee-modified](https://github.com/HimanshuSharmax/Tech-Mart/assets/86725419/ed9d6d37-aebb-40dd-802c-d5bfc8ed9a9c)
